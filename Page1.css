@@ -1,0 +1,146 @@
+#navList li 
+{
+    font-size: 30px;
+    display: inline-block;
+    margin-right: 10%;
+}
+#navList li a:hover
+{
+    background-color: lightblue;
+}
+#navList li a
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    border-radius: 40px;
+}
+#nav
+{
+    margin-top: 36px;
+    text-align: center;
+    height: 5pc;
+}
+body
+{
+    background-color:rgb(215, 215, 215);
+}
+.container
+{
+    background-color: rgba(255, 255, 255, 0.668);
+        text-align: center;
+        font-family: arial;
+        font-size: 24px;
+        margin-left: 30%;
+        margin-top: 2%;
+        margin-bottom: 2%;
+        width: 40%;
+        height: 100%;
+        /* outline: solid 1px black; */
+        border-radius: 1pc;
+        padding: 6px;
+}
+body
+{
+    background-color:rgb(215, 215, 215);
+    color-scheme: inherit;
+    color-scheme: dark;
+}
+#gyaan
+{
+    font-size: 300%;
+    text-align: center;
+}
+#headQuiz
+{
+    /* margin-top: 20px; */
+    text-decoration: black underline dashed;
+}
+#takeText
+{
+    margin-top: 10px;
+}
+#infoBar
+{
+    text-align: center;
+    background-color: rgb(13, 39, 116);
+}
+#infoBar ul .ll
+{
+    display: inline-block;
+    font-size: 300%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#ll1
+{
+    padding-right: 20%;
+    border-right: dashed black;
+    border-width: 0.5px;
+}
+#ll2
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-right: 15%;
+    float: right;
+}
+#arrow
+{
+    width: 5%;
+}
+#ll1 ul li a
+{
+    text-decoration: none;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#quote
+{
+    width: 100%;
+}
+#justOne
+{
+    background-color: rgb(251, 251, 246);
+    border: solid black;
+    width: 30%;
+    margin-left: 30%;
+    height: 100%;
+    border-radius: 4cqh;
+    margin-top: 40px;
+    font-size: 150%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-right: 1%;
+    padding-left: 10%;
+}
+#justOne input
+{
+    font-size: 10%;
+    width: 40%;
+    padding-left: 1.5%;
+    border-radius: 10px;
+    font-size: 130%;
+}
+#form1 img
+{
+    width: 5%;
+    float: right;
+}
+#whyQuiz
+{
+    text-align: center;
+    font-size: 300%;
+}
+#headMental
+{
+    font-size: 300%;
+    text-align: center;
+}
+#submitButt
+{
+    font-size: 120%;
+    width: 35%;
+    margin-left: 15%;
+    border-radius: 60%;
+}
